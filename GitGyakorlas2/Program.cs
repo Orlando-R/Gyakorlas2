@@ -12,7 +12,8 @@ namespace GitGyakorlas2
         {
             for (int i = 0; i < 5; i++)
             {
-                Console.WriteLine("Git próba push 2"); 
+                Console.WriteLine("Git próba push 2 "); 
+
             }
             Console.ReadLine();
         }
