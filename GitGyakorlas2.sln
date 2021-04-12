@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitGyakorlas2", "GitGyakorlas2\GitGyakorlas2.csproj", "{03CF85E5-49F4-44CE-81D2-3E5CE204962C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03CF85E5-49F4-44CE-81D2-3E5CE204962C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CF85E5-49F4-44CE-81D2-3E5CE204962C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CF85E5-49F4-44CE-81D2-3E5CE204962C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CF85E5-49F4-44CE-81D2-3E5CE204962C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {143AA0A0-7A63-4E50-AB61-0E060AFD9A1B}
+	EndGlobalSection
+EndGlobal
